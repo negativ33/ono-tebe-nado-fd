@@ -30,16 +30,11 @@
 
 .header_menu-item-no-bullit {
   text-decoration: none;
-  list-style-type: none;  
+  list-style-type: none;
 }
 
 .header_menu-link {
   text-decoration: none;
-  
-}
-
-.header_logo {
-
 }
 
 .header_logo-image {
@@ -329,16 +324,4 @@
   list-style-type: none;
   width: 48px;
   height: 48px;
-}
-
-.footer_links-youtube {
-  
-}
-
-.footer_links-vk {
-
-}
-
-.footer_links-pinterest {
-
 }
